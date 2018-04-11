@@ -20,10 +20,8 @@ Nota : para poder resolver el problema se utilizara lo siguiente
 ## * Pseudocodigo *
 1. Mediante un prompt solicitar al usuario ingresar un dato valido para cifraro descifrar.
 2. Validar que el dato ingressado cumpla con los requisitos (no contener numeros o caracteres extraños y no estar vacio)
-3. Validar si el usuario requiere cifrar o descifrar el texto ingresado.
-4. si el usuario desea encriptar el texto convertir el dato ingresado utilizando el cifrado Cesar.
-5. Retornar el texto resultante del paso anterior.
-6. En caso de que el usuario quiera desencriptar el texto ingresado descodificar el texto.
-Retornar el resultado del paso anterior.
+3. si el usuario desea encriptar el texto convertir el dato ingresado utilizando el cifrado Cesar.
+4. Retornar el texto resultante del paso anterior.
+
 
 ![diagrama](assets/imagen.png)
